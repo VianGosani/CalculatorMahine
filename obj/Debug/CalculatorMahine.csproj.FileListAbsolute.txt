@@ -1,0 +1,6 @@
+D:\18.11.2324\Kalkulator2019\CalculatorMahine\bin\Debug\CalculatorMahine.dll
+D:\18.11.2324\Kalkulator2019\CalculatorMahine\bin\Debug\CalculatorMahine.pdb
+D:\18.11.2324\Kalkulator2019\CalculatorMahine\obj\Debug\CalculatorMahine.csprojAssemblyReference.cache
+D:\18.11.2324\Kalkulator2019\CalculatorMahine\obj\Debug\CalculatorMahine.csproj.CoreCompileInputs.cache
+D:\18.11.2324\Kalkulator2019\CalculatorMahine\obj\Debug\CalculatorMahine.dll
+D:\18.11.2324\Kalkulator2019\CalculatorMahine\obj\Debug\CalculatorMahine.pdb
